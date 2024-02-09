@@ -1,0 +1,17 @@
+Personality List.
+
+Full:
+Patrols around wps looking for player (Assignable patrol method via dropdown)
+when player is spotted, chases and fires
+if damaged enough, attempts to run away and heal
+when health is restored, goes back to patrolling and looking for player
+
+Faker:
+Alternates between chase and flee based on time
+
+Kamikaze:
+Chase down player and shoot till one of you is dead
+
+Ambusher:
+Similar to full, except when it sees you, tries to get in front of you, and fires.
+

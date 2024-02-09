@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dd4a875b18704fb4e85ccb91df18f8fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - p1Spawn: {instanceID: 0}
+  - player: {instanceID: 0}
+  - shell: {fileID: 868059378640894543, guid: a46ab8a1e572ae545afdf4be019946ac, type: 3}
+  - firedShell: {fileID: 868059378640894543, guid: a46ab8a1e572ae545afdf4be019946ac,
+      type: 3}
+  - cannon: {instanceID: 0}
+  - player1Pre: {fileID: 8884016308727778190, guid: ffc8c15e4b5c2794ab249d71e949868a,
+      type: 3}
+  - player1: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
